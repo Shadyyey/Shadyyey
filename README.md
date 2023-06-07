@@ -1,6 +1,6 @@
 ## About Me
 
-Hey there! 👋 I'm [DShadey], a coding aficionado with a zest for all things tech. Welcome to my GitHub profile, where I unleash my programming powers and embark on thrilling coding adventures. 🚀💻
+Hey there! 👋 I'm DShadey, a coding aficionado with a zest for all things tech. Welcome to my GitHub profile, where I unleash my programming powers and embark on thrilling coding adventures. 🚀💻
 
 ## What I Do
 
