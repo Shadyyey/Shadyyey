@@ -1,17 +1,44 @@
-## About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&center=true&vCenter=true&width=520&lines=Talking+is+cheap.+Show+me+the+code)](https://git.io/typing-svg)
 
-Hey there! 👋 I'm DShadey, a coding aficionado with a zest for all things tech. Welcome to my GitHub profile, where I unleash my programming powers and embark on thrilling coding adventures. 🚀💻
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-## What I Do
+- 🏫 &nbsp; Game Designer and Programer since 2018.
+- 🚀 &nbsp; Experienced in developing and deploying Discord Robots.
+- 🤔 &nbsp; Open to collaborating with others on open-source projects and sharing knowledge.
+- 💬 &nbsp; Ask me anything about discord bots.
+- 🌱 &nbsp; Currently learning python.
 
-- **Coding Ninja**: I wield my keyboard like a katana, slicing through lines of code with precision and finess. Python, JavaScript, Java—name a language, and I'll tango with it. I love diving headfirst into complex problems and emerging victorious with elegant solutions. 💪🔥
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-- **Open-Source Crusader**: I'm on a mission to democratize knowledge and empower developers around the globe. You'll find a treasure trove of my open-source projects here—powerful tools and frameworks that kickstart projects and inspire fellow programmers to conquer new frontiers. 🌍✨
+  ![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java&logoColor=007396)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
-- **Problem-Solving Maverick**: Challenges fuel my creativity. When faced with a bug, I don my detective hat and embark on a thrilling quest to uncover its elusive origins. Armed with my wits and a bottomless mug of coffee, I fearlessly unravel puzzles that leave mere mortals scratching their heads in confusion. 🕵️‍♂️🔍☕
+<h3> 📈 &nbsp;My Stats</h3>
 
-## Join the Adventure!
+<div align="center">
 
-Feel free to explore my repositories and join me on this exhilarating journey of innovation, collaboration, and the occasional coding shenanigans. Don't forget to hit that ⭐️ button if you find something that sparks your interest. Let's push the boundaries of technology together and create a world where every line of code tells a story. 🚀🌟
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shadyyey&theme=buefy&show_icons=true" />
 
-Grab a cup of coffee ☕, fasten your seatbelt, and let's dive into the thrilling realm of code! 💻🌌
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadyyey&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Shadyyey&theme=dark)
+  
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shadyyey&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+
+</div>
